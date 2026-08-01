@@ -1,0 +1,16 @@
+
+__pycache__/
+*.py[cod]
+*.sqlite-shm
+*.sqlite-wal
+*.sqlite-journal
+.pytest_cache/
+.idea/
+备份/
+tests/
+docs/
+dist/
+build/
+*.pyz
+*.log
+
