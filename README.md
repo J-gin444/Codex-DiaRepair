@@ -36,6 +36,12 @@ CodexDiaRepair 是 Codex 桌面端（ChatGPT 桌面应用里的 Codex）的本�
 
 ---
 
+## 效果预览
+
+![效果演示](pic/效果演示.gif)
+
+---
+
 ## 功能总览（按页签）
 
 ### 对话管理
